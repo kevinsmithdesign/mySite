@@ -1,0 +1,219 @@
+body {
+  background-image:url();
+  background-repeat:repeat; 
+  -webkit-background-size:cover;
+  -moz-background-size:cover;
+  -o-background-size:cover;
+  background-size:cover; 
+  font-family:"gill sans";
+  background-attachment:fixed;
+}
+
+#navOne {
+  background-color:black;
+  width:100%;
+  height:2px;
+  margin-top:10px;
+}
+
+
+#navTwo {
+  background-color:white;
+  width:100%;
+  height:2px;
+
+}
+
+
+#navThree {
+  background-color:black;
+  width:100%;
+  height:2px;
+}
+
+#navFour {
+  background-color:white;
+  width:100%;
+  height:2px;
+}
+
+#navFive {
+  background-color:black;
+  width:100%;
+  height:2px;
+}
+
+#navSix {
+  background-color:white;
+  width:100%;
+  height:2px;
+  margin-top:40px;
+}
+
+#navSeven {
+  background-color:black;
+  width:100%;
+  height:2px;
+}
+
+
+#navEight {
+  background-color:white;
+  width:100%;
+  height:2px;
+}
+
+
+#navNine {
+  background-color:black;
+  width:100%;
+  height:2px;
+}
+
+#navTen{
+  background-color:white;
+  width:100%;
+  height:2px;
+}
+
+#navEleven {
+  background-color:black;
+  width:100%;
+  height:2px;
+}
+
+#navTwelve {
+  background-color:black;
+  width:100%;
+  height:2px;
+  position:relative;
+  top:690px;
+}
+
+#navThirteen {
+  background-color:white;
+  width:100%;
+  height:2px;
+  position:relative;
+  top:267px;
+}
+
+#navFourteen {
+  background-color:black;
+  width:100%;
+  height:2px;
+  position:relative;
+  top:263px;
+}
+
+#navFifteen {
+  background-color:white;
+  width:100%;
+  height:2px;
+  position:relative;
+  top:259px;
+}
+
+#navSixteen {
+  background-color:black;
+  width:100%;
+  height:2px;
+  position:relative;
+  top:255px;
+}
+
+#navSeventeen {
+  background-color:black;
+  width:100%;
+  height:2px;
+  position:relative;
+  top:180px;
+}
+
+#navEighteen {
+  background-color:white;
+  width:100%;
+  height:2px;
+  position:relative;
+  top:176px;
+}
+
+#navNineteen {
+  background-color:black;
+  width:100%;
+  height:2px;
+  position:relative;
+  top:172px;
+}
+
+#navTwenty {
+  background-color:white;
+  width:100%;
+  height:2px;
+  position:relative;
+  top:168px;
+}
+
+#navTwentyOne {
+  background-color:black;
+  width:100%;
+  height:2px;
+  position:relative;
+  top:164px;
+}
+
+
+
+
+#navContent {
+  color:black;
+  position:relative;
+  top:-20px;
+  padding:40px;
+}
+
+#navContent:hover {
+  color:#febf10;
+  text-decoration:none;
+}
+
+.navGroup {
+
+}
+
+.dashOne {
+  background-color:black;
+  width:2px;
+  height:10px;
+  position:relative;
+  left:570px;
+  top:-45px;
+}
+
+h4 {
+  margin-top:195px;
+}
+
+#logo {
+	width:200px;
+	margin-top:200px;
+
+}
+
+
+
+/* Media Queries */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
